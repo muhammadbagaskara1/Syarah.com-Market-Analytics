@@ -17,7 +17,7 @@ Syarah Listing Market Analytics/
 ├─ EDA.ipynb                     # Python notebook for preprocessing, feature engineering, and EDA
 └─ requirements.txt              # Python dependencies for the project
 
-![ERD Diagram](https://github.com/muhammadbagaskara1/Syarah.com-Market-Analytics/blob/main/SyarahListingERD.png])
+[![ERD Diagram](SyarahListingERD.png)]([https://gamma-finalprojek.streamlit.app/](https://github.com/muhammadbagaskara1/Syarah.com-Market-Analytics/blob/main/SyarahListingERD.png])) 
 
 Workflow / How to Run
 
